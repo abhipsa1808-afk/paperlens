@@ -8,3 +8,4 @@ data/*.parquet
 data/*.index
 data/*.npy
 .env
+*.egg-info/
