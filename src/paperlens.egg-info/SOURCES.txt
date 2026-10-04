@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/paperlens/__init__.py
+src/paperlens/data.py
+src/paperlens.egg-info/PKG-INFO
+src/paperlens.egg-info/SOURCES.txt
+src/paperlens.egg-info/dependency_links.txt
+src/paperlens.egg-info/top_level.txt
+tests/test_data.py
