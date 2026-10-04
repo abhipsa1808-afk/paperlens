@@ -1,0 +1,11 @@
+numpy
+pandas
+requests
+tqdm
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+streamlit
+pytest
+ruff
